@@ -1,6 +1,6 @@
 //             JS Library - Jenna Murphy
 //---------------------------------------------//
-//Function is given a color code, an alternative / lighter color code, a set of nav titles, set of nav links, and a boolean, creates a fully responsive fixed-position navbar in this background color with functioning links. The boolean should be used to indicate whether the navbar theme is to be original color or alternate color.
+//Function is given a color code, an alternative / lighter color code, a set of nav titles, set of nav links, and a boolean, creates a fully responsive fixed-position navbar in this background color with functioning links. The boolean is used to indicate whether the navbar theme is to be original color or alternate color.
 
 
 function makeNav(color, lightColor, navArray, linkArray, bool) {
